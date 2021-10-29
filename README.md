@@ -21,4 +21,4 @@ menghitung luas dan keliling lingkaran menggunakan Python
 
 ![Screenshot_374](https://user-images.githubusercontent.com/81457697/139402073-6ae73dc7-001e-4c37-905b-414e46a12540.png)
 
-[Tugas program.pdf](https://github.com/Axeldanovan/lab2/files/7440375/Tugas.program.pdf)
+[flowchartluaskeliling.pdf](https://github.com/Axeldanovan/lab2/files/7440412/flowchartluaskeliling.pdf)
