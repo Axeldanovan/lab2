@@ -13,7 +13,7 @@ menghitung luas dan keliling lingkaran menggunakan Python
 
 ![Screenshot_372](https://user-images.githubusercontent.com/81457697/139399169-da759eb9-657b-4163-8aa9-a5b03f73a58e.png)
 
-# Selanjutnya kita tampilkan hasilnya dengan fungsi print()
+# Selanjutnya tampilkan hasilnya dengan fungsi print()
 
 ![Screenshot_373](https://user-images.githubusercontent.com/81457697/139402283-7d1d3a9a-d73c-426b-a530-a5d864201241.png)
 
