@@ -12,3 +12,7 @@ menghitung luas dan keliling lingkaran menggunakan Python
 # Ketika sudah mendapat nilai phi dan jari-jari selanjutnya  bisa menghitung luas dan keliling sesuai dengan rumus-nya masing-masing 
 
 ![Screenshot_372](https://user-images.githubusercontent.com/81457697/139399169-da759eb9-657b-4163-8aa9-a5b03f73a58e.png)
+
+# tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
+
+![Screenshot_373](https://user-images.githubusercontent.com/81457697/139399414-c8bee6dc-f178-406b-97f4-6757ad85deb0.png)
