@@ -13,6 +13,6 @@ menghitung luas dan keliling lingkaran menggunakan Python
 
 ![Screenshot_372](https://user-images.githubusercontent.com/81457697/139399169-da759eb9-657b-4163-8aa9-a5b03f73a58e.png)
 
-# tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
+# tampilan hasil akhir/output dari hasil print sesuai jari jari yang kita input
 
-![Screenshot_373](https://user-images.githubusercontent.com/81457697/139399414-c8bee6dc-f178-406b-97f4-6757ad85deb0.png)
+![Screenshot_374](https://user-images.githubusercontent.com/81457697/139401986-b5d169d4-18f1-49f7-8439-403576857450.png)
