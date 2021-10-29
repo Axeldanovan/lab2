@@ -15,4 +15,4 @@ menghitung luas dan keliling lingkaran menggunakan Python
 
 # tampilan hasil akhir/output dari hasil print sesuai jari jari yang kita input
 
-![Screenshot_374](https://user-images.githubusercontent.com/81457697/139401986-b5d169d4-18f1-49f7-8439-403576857450.png)
+![Screenshot_374](https://user-images.githubusercontent.com/81457697/139402073-6ae73dc7-001e-4c37-905b-414e46a12540.png)
